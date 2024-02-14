@@ -20,3 +20,9 @@
  
  To remove changes
  - git restore filename
+ 
+ To establish connection between local git repository to remote github repository
+ -  git remote add origin "link" (in our case https://github.com/JankiParekh/Automation.git)
+ 
+ To push code from local to remote repository
+ - git push origin master

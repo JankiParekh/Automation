@@ -1,0 +1,13 @@
+ - https://github.com/JankiParekh/Automation.git
+ 
+ To add 
+ - git add "filename with extension"
+ 
+ To commit
+ - git commit -m Enter your message
+ 
+ To check status
+ - git status
+ 
+ To unstage
+ - git rm --cached filename

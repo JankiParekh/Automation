@@ -3,6 +3,9 @@
  To add 
  - git add "filename with extension"
  
+ To add all file together
+ - git add .
+ 
  To commit
  - git commit -m Enter your message
  
@@ -11,3 +14,6 @@
  
  To unstage
  - git rm --cached filename
+ 
+ To check changes
+ - git diff file name (if you don't give file name it will display last updated file data)

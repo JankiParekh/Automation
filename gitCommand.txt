@@ -17,3 +17,6 @@
  
  To check changes
  - git diff file name (if you don't give file name it will display last updated file data)
+ 
+ To remove changes
+ - git restore filename
